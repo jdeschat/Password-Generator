@@ -6,7 +6,7 @@ This password generator includes ..
 
 
 This is my password generator:
-![alt text](https://github.com/jdeschat/challenge-module-3/blob/main/assets/img/passGen_Screenshot.png)
+![alt text](https://github.com/jdeschat/challenge-module-3/blob/main/Assets/img/passGen_Screenshot.png)
 
 Published at: https://jdeschat.github.io/challenge-module-3/
 
