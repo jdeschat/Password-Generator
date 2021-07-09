@@ -8,5 +8,5 @@ This password generator includes ..
 This is my password generator:
 ![alt text](https://github.com/jdeschat/challenge-module-3/blob/main/assets/img/passGen_Screenshot.jpg)
 
-Published at: https://github.com/jdeschat/challenge-module-3
+Published at: https://jdeschat.github.io/challenge-module-3/
 
