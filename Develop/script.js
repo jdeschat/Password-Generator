@@ -33,35 +33,20 @@ var createPass = function () {
   if (specialConfirm) {
     allCharacters += specialCharacters;
   };
+
+  console.log(allCharacters);
 }
 
 
 function generatePassword() {
   createPass();
   for (let i = 1; i <= passLength; i++) {
-    const randomNumber = password[Math.floor(Math.random() * password.length)]
-    newPassword += randomNumber;
+    const randomCharacter = allCharacters[Math.floor(Math.random() * allCharacters.length)]
+    password += randomCharacter;
   }
 
   return password;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
