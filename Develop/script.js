@@ -1,7 +1,7 @@
 // Characters code
 var lowercase = 'abcdefghijklmnopqrstuvwxyz';
 var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-var numeric = '123456789';
+var numbers = '123456789';
 var specialCharacters = '!@#$%^&*_-+=';
 var storePassword = "generated password";
 var passLength = 0;
@@ -23,6 +23,15 @@ var createPass = function () {
 
   if (lowercaseConfirm) {
     allCharacters += lowercase;
+  };
+  if (uppercaseConfirm) {
+    allCharacters += uppercase;
+  };
+  if (numbersConfirm) {
+    allCharacters += numbers;
+  };
+  if (specialConfirm) {
+    allCharacters += specialCharacters;
   };
 }
 
