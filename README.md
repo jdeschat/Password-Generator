@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+# Password Generator
 This password generator is created using...
 * Prompts for desired password length between 8-128 characters
 * Prompts for desired combination of characters, which may include lowercase, uppercase, numeric, and/or  special characters
@@ -65,5 +65,16 @@ Made with [contributors-img](https://contrib.rocks).
 ## Tests
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
-Published at: https://jdeschat.github.io/Password-Generator/
+## Technology Used
+- HTML 5
+- CSS
+- JavaScript
+
+## Questions
+My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/Password-Generator.
+
+The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Password-Generator/.
+
+You can reach me at jdeschat@gmail.com with additional questions.
+
 
